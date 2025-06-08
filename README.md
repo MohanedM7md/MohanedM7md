@@ -20,8 +20,8 @@ Specialized in **front-end development**, exploring the **full-stack path**, and
 
 ## 📫 Let's Connect
 
-- ✉️ Email: [mohaned.eng.dev@gmail.com](mailto:mohaned.eng.dev@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/mohanedmohamed](https://linkedin.com/in/mohanedmohamed)
+- ✉️ Email: [mohandmohamed104@gmail.com](mailto:mohandmohamed104@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/mohannedmohamed](https://linkedin.com/in/mohanedmohamed](https://www.linkedin.com/in/mohannedmohamed/))
 
 ---
 
