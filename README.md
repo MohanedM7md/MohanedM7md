@@ -38,6 +38,3 @@ Specialized in **front-end development**, exploring the **full-stack path**, and
 ![](https://github-readme-stats.vercel.app/api?username=MohanedM7md&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MohanedM7md&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohanedM7md&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MohanedM7md&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
