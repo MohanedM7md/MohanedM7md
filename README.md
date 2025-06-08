@@ -31,8 +31,6 @@ Specialized in **front-end development**, exploring the **full-stack path**, and
 
 ---
 
----
-
 ## 📫 Contacts
 - ✉️ Email: [mohaned.eng.dev@gmail.com](mailto:mohaned.eng.dev@gmail.com)
 ---
