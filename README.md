@@ -21,8 +21,7 @@ Specialized in **front-end development**, exploring the **full-stack path**, and
 ---
 
 ## 📫 Contacts
-- ✉️ Email: [mohaned.eng.dev@gmail.com](mailto:mohaned.eng.dev@gmail.com)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohandmohamed104@gmail.com) 
-
+- ✉️ Email: [mohaned.eng.dev@gmail.com](mailto:mohaned.eng.dev@gmail.com)
 ---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mohaned.mohamed.760409/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohaned_m7md/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohannedmohamed/) 
