@@ -29,7 +29,7 @@ Specialized in **front-end development**, exploring the **full-stack path**, and
 
 **B.Sc. Computer and Communication Engineering**  
 - *Cairo University (2022–2027)*
-- *Louisville University (USA) (2024–2025)*
+- *Louisville University (USA) (Semester-abroad 2024)
 
 ---
 
