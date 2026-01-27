@@ -3,14 +3,14 @@
 I'm a passionate **Full-Stack Developer** who likes learning and building cool stuff with code — from websites to games to helpful tools.  
 I build **real, production-ready applications** and enjoy taking ideas from zero to deployment.
 
- **10+ real projects deployed**
+ **real projects deployed**
 * [Fajr Al Khair](https://fajeralkhair.com/)
 * [K-Shop](https://k-shopx.com/)
 * [Al HajrCards](https://alhajicard.com/)
 * [Ms Focal ME](https://msfocalme.com/)
 * [Dera health](https://derahealth.sa/)
 * [ScoutMe](https://www.scoutmesolutions.com/)
-* more.......... 
+* still more.......... 
 ---
 
 # 💻 Tech Stack:
