@@ -10,7 +10,7 @@ I build **real, production-ready applications** and enjoy taking ideas from zero
 * [Ms Focal ME](https://msfocalme.com/)
 * [Dera health](https://derahealth.sa/)
 * [ScoutMe](https://www.scoutmesolutions.com/)
-more and more................
+* more.......... 
 ---
 
 # 💻 Tech Stack:
