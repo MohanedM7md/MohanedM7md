@@ -4,11 +4,11 @@ I'm a passionate **Full-Stack Developer** who likes learning and building cool s
 I build **real, production-ready applications** and enjoy taking ideas from zero to deployment.
 
  **real projects deployed**
-* [Fajr Al Khair](https://fajeralkhair.com/){:target="_blank"}
-* [K-Shop](https://k-shopx.com/){:target="_blank"}
-* [Ms Focal ME](https://msfocalme.com/){:target="_blank"}
-* [Dera health](https://derahealth.sa/){:target="_blank"}
-* [ScoutMe](https://www.scoutmesolutions.com/){:target="_blank"}
+* <a href="https://fajeralkhair.com/" target="_blank">Fajr Al Khair</a>
+* <a href="https://k-shopx.com/" target="_blank">K-Shop</a>
+* <a href="https://msfocalme.com/" target="_blank">Ms Focal ME</a>
+* <a href="https://derahealth.sa/" target="_blank">Dera health</a>
+* <a href="https://www.scoutmesolutions.com/" target="_blank">ScoutMe</a>
 * still more.......... 
 ---
 
