@@ -54,7 +54,7 @@ I build **real, production-ready applications** and enjoy taking ideas from zero
 ---
 
 ## 📫 Contacts
-- ✉️ Email: [mohandmohamed104@gmail.com](mailto:mohandmohamed104@gmail.com)
+- ✉️ Email: [mohandmohamed104@gmail.com](mailto:mohaned.awad.alluh@gmail.com)
 
 ---
 
