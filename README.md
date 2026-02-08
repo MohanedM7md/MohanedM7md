@@ -86,17 +86,6 @@ Talent matching platform with profile management and video portfolio features.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="48%" />
-
-</div>
-
----
-
 ## 📫 Contact
 
 <div align="center">
